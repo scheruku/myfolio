@@ -9,7 +9,7 @@
     <meta name="author" content="Siribala Priyanka Cherukumilli">
     <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
 
-    <title>Siribala Priyanka Cherukumilli's Portfolio</title>
+    <title>Siribala Priyanka Cherukumilli's Portfolio is on github</title>
 
     <!-- Bootstrap core CSS -->
     <link href="http://localhost:8888/myfolio/css/bootstrap.css" rel="stylesheet">
