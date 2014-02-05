@@ -1,0 +1,26 @@
+.profile-stat-box {
+	
+	overflow: auto;
+	background: black;
+	color:white;
+	background: -moz-linear-gradient(top,  rgba(255,255,255,0.9) 0%, rgba(237,237,237,0.9) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.9)), color-stop(100%,rgba(237,237,237,0.9)));
+	background: -webkit-linear-gradient(top,  rgba(255,255,255,0.9) 0%,rgba(237,237,237,0.9) 100%);
+	background: -o-linear-gradient(top,  rgba(255,255,255,0.9) 0%,rgba(237,237,237,0.9) 100%);
+	background: -ms-linear-gradient(top,  rgba(255,255,255,0.9) 0%,rgba(237,237,237,0.9) 100%);
+	background: linear-gradient(to bottom, rgba(68, 62, 62, 0.9) 0%,rgba(141, 136, 136, 0.9) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6ffffff', endColorstr='#e6ededed',GradientType=0 );
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	box-shadow: 0 2px 5px rgba(0,0,0,.5);
+	-webkit-box-shadow: 0 2px 5px rgba(0,0,0,.5);
+	border: 1px solid #161515;
+	border-radius: 1px solid #fff;
+	padding: 10px 15px;
+	position: relative; top:80px;right:40px;
+	z-index: 500;
+}
+
+.profile-stat-box .profile-actions .btn {
+	margin-top: 5px;
+}
