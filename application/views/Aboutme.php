@@ -21,6 +21,6 @@ background-position: 0 40px;
 		and how it evolved through the years and made huge difference in our lives. In my spare time I enjoy learning new coding techniques, exploring open source projects and new technologies.
 		</p>
 		now rebase c5
-		<p>I love cooking and often experiment new cuisines. I am a trained in Indian classical music and in my spare time I enjoy singing and hiking.
+		<p>I love cooking hdsgfshafg rebase c6 and often experiment new cuisines. I am a trained in Indian classical music and in my spare time I enjoy singing and hiking.
 		</p>
 </div>
