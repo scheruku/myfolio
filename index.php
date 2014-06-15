@@ -134,6 +134,7 @@ if (defined('ENVIRONMENT'))
  *  Resolve the system path for increased reliability
  * ---------------------------------------------------------------
  */
+ //another rebase test
 
 	// Set the current directory correctly for CLI requests
 	if (defined('STDIN'))
