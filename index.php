@@ -27,7 +27,7 @@
  * Different environments will require different levels of error reporting.
  * By default development will show errors but testing and live will hide them.
  */
-//tetsing 123
+
 if (defined('ENVIRONMENT'))
 {
 	switch (ENVIRONMENT)
@@ -45,7 +45,7 @@ if (defined('ENVIRONMENT'))
 			exit('The application environment is not set correctly.');
 	}
 }
-
+//not testing confilc
 /*
  *---------------------------------------------------------------
  * SYSTEM FOLDER NAME
