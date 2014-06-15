@@ -23,5 +23,5 @@ background-position: 0 40px;
 
 		<p>I love cooking and often experiment new cuisines.dsgfsaf  I am a trained in Indian classical music and in my spare time I enjoy singing and hiking.
 		</p>
-		gdfhjhsf rebase 4 fgsdg rebase 8
+		gdfhjhsf rebase 4
 </div>
