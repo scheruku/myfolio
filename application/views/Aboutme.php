@@ -16,7 +16,7 @@ background-position: 0 40px;
 <div class="">
 	<img src=""/>
 	<img class="img-responsive" src="<?echo base_url().'/images/profile_1.jpg';?>" alt="...">
-		
+		I am testing git reabase c3
 		<p>Hey!  I am testing second time. I am Priyanka Cherukumilli a software developer by profession. I am fascinated by software development 
 		and how it evolved through the years and made huge difference in our lives. In my spare time I enjoy learning new coding techniques, exploring open source projects and new technologies.
 		</p>
